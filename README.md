@@ -12,10 +12,6 @@ Hello! This is Yuichiro Kawakami, and welcome to my portfolio and resume reposit
   - App Development Projects
   - Web Development Projects
 
-## Viewing the Portfolio and Resume
-
-You can view my portfolio and resume directly in this repository, or you can visit my GitHub Pages site at 'username.github.io/repository-name'.
-
 ## Contact Me
 
 If you have any questions or would like to get in touch, feel free to reach out to me at y.kawakami090101@gmail.com.
