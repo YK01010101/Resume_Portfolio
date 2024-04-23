@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! This is Yuichiro Kawakami, and welcome to my portfolio and resume repository. Here, you'll find a collection of my work, skills, and experiences.
+Hello! This is Yuichiro Kawakami, and welcome to my resume and portfolio repository. Here, you'll find a collection of my work, skills, and experiences.
 
 ## Contents
 
@@ -16,4 +16,4 @@ Hello! This is Yuichiro Kawakami, and welcome to my portfolio and resume reposit
 
 If you have any questions or would like to get in touch, feel free to reach out to me at y.kawakami090101@gmail.com.
 
-Thank you for visiting my portfolio and resume repository!
+Thank you for visiting my repository!
