@@ -6,8 +6,8 @@ Hello! This is Yuichiro Kawakami, and welcome to my resume and portfolio reposit
 
 ## Contents
 
-- **Resume.pdf**: This file contains my professional resume detailing my skills, experiences, and education.
-- **Portfolio.pdf**: This file contains examples of my work, including:
+- **[Resume (pdf file)](Resume_Yuichiro_Kawakami.pdf)**: This file contains my professional resume detailing my skills, experiences, and education.
+- **[Portofolio (pdf file)](PortFolio_Yuichiro_Kawakami.pdf)**: This file contains examples of my work, including:
   - Game Development Projects
   - App Development Projects
   - Web Development Projects
